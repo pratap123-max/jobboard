@@ -1,0 +1,42 @@
+
+
+### 🧑‍💼 Job Seeker Features:
+- **Login via OTP (email or mobile)** using Firebase Authentication or a secure alternative.
+- **Search and filter jobs** based on:
+  - Location
+  - Profile/Job Title
+  - Employment type (Full-time, Part-time, Freelance)
+- **Apply to jobs** by submitting a resume and short profile.
+- **View application status**, and interview updates.
+- **Personal dashboard** with applied jobs, interview schedules, and resume editing.
+
+---
+
+### 🧑‍💻 Recruiter Features:
+- **Recruiter Login** via OTP or email/password.
+- **Post job requirements** including title, location, description, qualifications, salary, and experience.
+- **Dashboard to view applicants** per job post.
+- **View applicant details** (resume, contact, etc.).
+- **Lineup interviews** by setting up a schedule and notifying job seekers via email/portal notifications.
+- **Manage job posts** (edit, close, delete).
+
+---
+
+### 🔐 Authentication:
+- OTP-based login system.
+- Secure session management and role-based access control.
+
+---
+
+### 📊 Admin Dashboard (Optional):
+- User activity metrics.
+- Job post statistics.
+- Moderation tools for reported jobs/applicants.
+
+---
+
+### 💰 Monetization Options:
+- Google AdSense integration.
+- Premium job post features for recruiters.
+- Resume boost for jobseekers.
+
